@@ -19,7 +19,7 @@
 ✔ 디스코드 : [백살이#4937] <br>
 ✔ 무엇이든 물어보세요. 개발 용어를 아는 경우에만 기꺼이 도와드리겠습니다!😉<br>
 ✔ 개발 예정 : *CRV 이용 Pine Editor 트뷰 이용하여 주식프로그램 개발*<br><br><br><br>
- 
+<hr>
   <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
