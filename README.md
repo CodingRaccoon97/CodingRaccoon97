@@ -19,9 +19,9 @@
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Remote Sensing**<br>
 ✔ I regularly write articles on [GeeksforGeeks](https://auth.geeksforgeeks.org/user/akash_chowrasia/articles) <br>
-✔ I use to write coad on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+✔ 인스타그램 [leetcode](https://www.instagram.com/boo_oyo/) <br>
+✔ 무엇이든 물어보세요. 개발 용어를 아는 경우에만 기꺼이 도와드리겠습니다!😉<br>
+✔ 개발 예정 : *CRV 이용 Pine Editor 트뷰 이용하여 주식프로그램 개발*<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
