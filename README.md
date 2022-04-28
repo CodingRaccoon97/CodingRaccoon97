@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center">안녕하세요 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, 심심풀이 개발자입니다.</h1>
+<h1 align="center">안녕하세요 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, 심심풀이 개발자 백살이입니다.</h1>
 <h3 align="center">Fornt-End | Back-End | AI 개발자</h3>
 <p align="center">
   <em>
@@ -13,8 +13,8 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***주절주절 메모장*** <br>
 ✔ MBTI : **ESTJ**<br>
-✔ 인스타그램 : [Boo_oyo](https://www.instagram.com/boo_oyo/) <br>
-✔ 디스코드 : [백살이#4937] <br>
+✔ Instagram : [Boo_oyo](https://www.instagram.com/boo_oyo/) <br>
+✔ Discord : [백살이#4937] <br>
 ✔ 무엇이든 물어보세요. 개발 용어를 아는 경우에만 기꺼이 도와드리겠습니다!😉<br>
-✔ 개발 예정 : *CRV 이용 Pine Editor 트뷰 이용하여 주식프로그램 개발*<br><br>
+✔ Process Tools :  <code> <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code><br><br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CodingRaccoon97&show_icons=true&theme=tokyonight)
