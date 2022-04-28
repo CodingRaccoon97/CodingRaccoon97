@@ -12,20 +12,10 @@
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***주절주절 메모장***
-
-✔ Pronouns: ***반가워! 난 *** or ***CodingRacoon97***😉 <br>
 ✔ MBTI : **ESTJ**<br>
 ✔ 인스타그램 : [Boo_oyo](https://www.instagram.com/boo_oyo/) <br>
 ✔ 디스코드 : [백살이#4937] <br>
 ✔ 무엇이든 물어보세요. 개발 용어를 아는 경우에만 기꺼이 도와드리겠습니다!😉<br>
 ✔ 개발 예정 : *CRV 이용 Pine Editor 트뷰 이용하여 주식프로그램 개발*<br><br><br><br>
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***글을 마치며!!***
-<p align="left">
-  <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>!보유 스택!</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-chowrasia&show_icons=true&locale=en&layout=compact" alt="akash-chowrasia" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-chowrasia&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
-
 <hr>
